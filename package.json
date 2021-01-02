@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@react-native-firebase/app": "^10.4.0",
+    "@react-native-firebase/database": "^10.4.0",
+    "@react-native-firebase/storage": "^10.4.0",
     "mobx": "^6.0.4",
     "mobx-react": "^7.0.5",
     "moment": "^2.29.1",
