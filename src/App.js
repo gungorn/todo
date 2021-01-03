@@ -14,8 +14,6 @@ const App = observer(() => {
 			<View style={styles.container}>
 				<Splash />
 			</View>
-
-			<Text>{W(60)}</Text>
 		</>
 	);
 });
